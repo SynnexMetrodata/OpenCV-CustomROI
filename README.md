@@ -2,6 +2,11 @@
 
 Contoh script membuat Custom ROI di aplikasi OPENCV
 
+### Cara Pakai
+berikut shortcut yang digunakan :
+q   : exit
+r   : mulai select ROI
+n   : buat roi baru
 
 ### Prerequisites
 
