@@ -11,8 +11,8 @@ berikut shortcut yang digunakan :
 
 ### Prerequisites
 
-OpenCV 4.x
-Python 3.x
+* OpenCV 4.x
+* Python 3.x
 
 ## Authors
 
